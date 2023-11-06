@@ -12,10 +12,10 @@ We recommend GitHub pages for HTML/CSS and Render.com for React. Your portfolio 
 
 ### LinkedIn
 
-Your LinkedIn url:
+Your LinkedIn url: www.linkedin.com/in/jeffreyguzmanmodesto
 
 Check the boxes below to certify that you have completed the following items on LinkedIn:
 
-- [ ] create a new post about your first five weeks at LEARN. Topics can include (but are not limited to) Ruby, sharing a project you created, sharing a resource you found helpful, or portfolios.
+- [x] create a new post about your first five weeks at LEARN. Topics can include (but are not limited to) Ruby, sharing a project you created, sharing a resource you found helpful, or portfolios.
 - [ ] add at least ten more professional connections. You should have at least 50 LinkedIn connections.
-- [ ] react (like, celebrate, comment, etc) to ten posts.
+- [x] react (like, celebrate, comment, etc) to ten posts.
